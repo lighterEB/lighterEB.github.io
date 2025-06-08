@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 插死彭佳薇
-subtitle: '励志插死彭佳薇'
+title: LighterEB's Blog
+subtitle: '告别是为了更好的重逢'
 description: ''
 keywords:
 author: LighterEB
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai' # Set your timezone, e.g. 'Asia/Shanghai', 'America/Ne
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://lightereb.github.io/blog
+url: https://lightereb.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
